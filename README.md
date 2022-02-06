@@ -1,2 +1,2 @@
 # abstractalgebra
-abstract algebra tutorials inspired by perldoc.
+abstract algebra notes/tutorials inspired by perldoc.
